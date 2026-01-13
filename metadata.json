@@ -1,0 +1,7 @@
+{
+  "name": "Status Report Scribe",
+  "description": "Fast multi-track audio recorder and summarizer for meeting status reports.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
